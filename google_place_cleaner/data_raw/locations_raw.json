@@ -1,0 +1,1189 @@
+[
+    {
+        "place_id": "ChIJswxIsBkvdTERPf6xH3qH0Do",
+        "name": "Highlands Coffee Lê Duẩn",
+        "search_string": "Highlands Coffee District 1",
+        "rating": 3.9,
+        "user_ratings_total": 862,
+        "geometry": {
+            "location": {
+                "lat": 10.7836835,
+                "lng": 106.7012071
+            }
+        },
+        "address": "2B Lê Duẩn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+        "types": [
+            "Quán cà phê"
+        ],
+        "reviews": [
+            {
+                "name": "Toàn Huỳnh",
+                "rating": 5,
+                "text": "Chi nhánh này có không gian cũng rộng rãi, decor cũng đẹp, nằm ngay tại ngã tư Lê Duẩn - Mạc Đỉnh Chi. Đồ uống tại đây cũng ổn, nhân viên thân thiện.\n\nBãi xe ở đây thì nhỏ, nên rất dễ khó dắt khi đông khách nhưng luôn có các anh bảo vệ hỗ trợ dắt xe nên cũng yên tâm.",
+                "time": "2025-11-25T09:09:59.728Z"
+            },
+            {
+                "name": "Patrick Kosellek",
+                "rating": 5,
+                "text": "Nice and not to small Highlands, many comfortable chairs, best is you have an ice cream machine to add on top of your coffee ☕",
+                "time": "2025-11-24T09:54:03.449Z"
+            },
+            {
+                "name": "Rannie Le",
+                "rating": 1,
+                "text": "Nước pha dở hơn các chi nhánh khác nhiều . Thái độ phục vụ cũng tệ nữa , báo sẽ bưng nước ra cho khách . Mà để trên quầy nước tan gần nửa ly , khách lại hỏi thì chỉ nước trên bàn .",
+                "time": "2025-11-24T08:59:49.135Z"
+            },
+            {
+                "name": "Nguyễn Văn Cường",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-24T05:00:20.590Z"
+            },
+            {
+                "name": "Khon Bui",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-21T08:53:20.850Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJcXjqz0cvdTERkb6vblGr3XM",
+        "name": "Highlands Coffee Vincom Đồng Khởi",
+        "search_string": "Highlands Coffee District 1",
+        "rating": 4,
+        "user_ratings_total": 654,
+        "geometry": {
+            "location": {
+                "lat": 10.778169,
+                "lng": 106.701916
+            }
+        },
+        "address": "72 Lê Thánh Tôn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+        "types": [
+            "Quán cà phê"
+        ],
+        "reviews": [
+            {
+                "name": "Nguyễn Thị Ngọc Thơ",
+                "rating": 5,
+                "text": "rcm cà phê sữa nha, chi nhánh làm cf sữa ngon nhất mình từng uống, đậm đà lắm ạ, bạn nvien nữ cao cao dễ thương vô cùng ⭐️⭐️⭐️⭐️⭐️",
+                "time": "2025-11-26T07:47:59.872Z"
+            },
+            {
+                "name": "Toàn Huỳnh",
+                "rating": 5,
+                "text": "Vị trí tại tầng B3 của Vincom Đồng Khởi. Quán rộng. Nhân viên nhiệt tình. Đồ uống ngon.",
+                "time": "2025-11-21T04:35:57.447Z"
+            },
+            {
+                "name": "Lisa Sahari",
+                "rating": 2,
+                "text": null,
+                "time": "2025-11-19T04:11:50.390Z"
+            },
+            {
+                "name": "Trần Quốc Phúc An",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-18T07:28:11.989Z"
+            },
+            {
+                "name": "Jenny Pham",
+                "rating": 1,
+                "text": "Quán có 2 lines để order, nhân viên làm việc kiểu gì mà khách hàng đứng xếp hàng cả buổi mà không nói cho khách hàng biết là chỉ nhận order 1 bên thôi. Mình chờ hoài mà chỉ toàn thấy 2 nhân viên nói chuyện với nhau, ko thèm ngó đến khách. Đến khi mình thấy bên cạnh đã phục vụ khách xong, lịch sự hỏi mình order được không thì yêu cầu mình xếp hàng trong khi mình đâu phải không khí mà không thấy mình đứng chờ rất lâu. Càng ngày Highlands phục vụ càng tệ.",
+                "time": "2025-11-16T13:05:58.180Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJCT55tAondTERz4vTGscWtBo",
+        "name": "Pizza 4P's Xuân Thủy",
+        "search_string": "Pizza 4P's Ho Chi Minh",
+        "rating": 5,
+        "user_ratings_total": 16586,
+        "geometry": {
+            "location": {
+                "lat": 10.8026229,
+                "lng": 106.7308124
+            }
+        },
+        "address": "48/01 Xuân Thủy, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh 700000, Việt Nam",
+        "types": [
+            "Nhà hàng pizza",
+            "Nhà hàng gia đình",
+            "Nhà hàng cao cấp",
+            "Nhà hàng hỗn hợp",
+            "Nhà hàng Nhật Bản",
+            "Nhà hàng thực phẩm hữu cơ",
+            "Cửa hàng bán pizza mang về"
+        ],
+        "reviews": [
+            {
+                "name": "Bảo Khánh",
+                "rating": 5,
+                "text": "Mì cua, pizza và salad ngon, không gian thoáng mát, nhân viên nhanh nhẹn nhiệt tình",
+                "time": "2025-11-26T17:08:59.909Z"
+            },
+            {
+                "name": "DUC TUAN NGUYEN",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T10:27:31.092Z"
+            },
+            {
+                "name": "33 - Hồng Thắm",
+                "rating": 5,
+                "text": "Tuyệt dời",
+                "time": "2025-11-26T08:49:32.550Z"
+            },
+            {
+                "name": "Ching Chong",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T01:24:13.082Z"
+            },
+            {
+                "name": "Justin Doan",
+                "rating": 5,
+                "text": "Delicious, nice and friendly",
+                "time": "2025-11-25T14:05:24.151Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJ_Uig1gwvdTERP3KaLlGNHUY",
+        "name": "Pizza 4P's Lê Đại Hành",
+        "search_string": "Pizza 4P's Ho Chi Minh",
+        "rating": 4.9,
+        "user_ratings_total": 6654,
+        "geometry": {
+            "location": {
+                "lat": 10.764909,
+                "lng": 106.6556152
+            }
+        },
+        "address": "The Emporium Building, Phu Tho Ward, 184 Đ. Lê Đại Hành, Phường 15, Quận 11, Thành phố Hồ Chí Minh 70000, Việt Nam",
+        "types": [
+            "Nhà hàng pizza",
+            "Nhà hàng gia đình",
+            "Nhà hàng cao cấp",
+            "Nhà hàng hỗn hợp",
+            "Nhà hàng ý",
+            "Nhà hàng Nhật Bản",
+            "Nhà hàng thực phẩm hữu cơ",
+            "Cửa hàng bán pizza mang về"
+        ],
+        "reviews": [
+            {
+                "name": "Anh Tran",
+                "rating": 5,
+                "text": "The salad was awesome as well as the crab pasta. Would recommend to others and come back again <3",
+                "time": "2025-11-26T14:46:40.097Z"
+            },
+            {
+                "name": "My Nhi Lam",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T14:23:08.022Z"
+            },
+            {
+                "name": "Thành Trương Hiển",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T14:13:06.920Z"
+            },
+            {
+                "name": "Diễm Lưu",
+                "rating": 5,
+                "text": "Bạn Thiên Thanh phục vụ rất tốt ❤️",
+                "time": "2025-11-26T13:11:39.042Z"
+            },
+            {
+                "name": "Hòa Thuận Trương",
+                "rating": 4,
+                "text": "Just had a fantastic dinner out with the family! The service was absolutely top-notch, everyone was so friendly and attentive. We all really enjoyed our meals, and it was just a perfect, warm atmosphere.",
+                "time": "2025-11-25T03:32:27.989Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJyzkiI1AvdTER763wasUcMW0",
+        "name": "Pizza 4P’s Võ Văn Kiệt",
+        "search_string": "Pizza 4P's Ho Chi Minh",
+        "rating": 4.9,
+        "user_ratings_total": 9737,
+        "geometry": {
+            "location": {
+                "lat": 10.7551082,
+                "lng": 106.6876645
+            }
+        },
+        "address": "608 Võ Văn Kiệt, Cầu Kho, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
+        "types": [
+            "Nhà hàng pizza",
+            "Nhà hàng gia đình",
+            "Nhà hàng cao cấp",
+            "Nhà hàng hỗn hợp",
+            "Nhà hàng Nhật Bản",
+            "Nhà hàng thực phẩm hữu cơ",
+            "Cửa hàng bán pizza mang về"
+        ],
+        "reviews": [
+            {
+                "name": "Bhaskar Vempali",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T14:54:58.257Z"
+            },
+            {
+                "name": "Dheeraj Reddy Puchakayala",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T14:54:38.823Z"
+            },
+            {
+                "name": "Souledone",
+                "rating": 4,
+                "text": null,
+                "time": "2025-11-26T14:53:52.733Z"
+            },
+            {
+                "name": "Hân Nguyễn",
+                "rating": 5,
+                "text": "Đồ ăn ngon, không gian quán rộng rãi thoáng mát yên tĩnh, nhân viên phục vụ nhiệt tình đáng yêu ❤️",
+                "time": "2025-11-26T14:37:01.910Z"
+            },
+            {
+                "name": "Florian Brus",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T14:11:58.402Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJ-U0708spdTERAGT7uAW90zk",
+        "name": "Pizza 4P's Saigon Pearl",
+        "search_string": "Pizza 4P's Ho Chi Minh",
+        "rating": 5,
+        "user_ratings_total": 13660,
+        "geometry": {
+            "location": {
+                "lat": 10.7895881,
+                "lng": 106.7207971
+            }
+        },
+        "address": "Ruby Home 1, 92 Nguyễn Hữu Cảnh, Saigon Pearl, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Việt Nam",
+        "types": [
+            "Nhà hàng pizza",
+            "Nhà hàng gia đình",
+            "Nhà hàng cao cấp",
+            "Nhà hàng hỗn hợp",
+            "Nhà hàng Nhật Bản",
+            "Nhà hàng thực phẩm hữu cơ",
+            "Cửa hàng bán pizza mang về"
+        ],
+        "reviews": [
+            {
+                "name": "King Luxury",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-27T00:54:13.966Z"
+            },
+            {
+                "name": "Linh Diệu",
+                "rating": 5,
+                "text": "Tuyệt vời, ngon, nhân viên phục vụ tốt",
+                "time": "2025-11-26T14:45:20.224Z"
+            },
+            {
+                "name": "Hoàng Phượng",
+                "rating": 5,
+                "text": "Nhân viên dễ thương, hỗ trợ nhiệt tình",
+                "time": "2025-11-26T14:45:19.623Z"
+            },
+            {
+                "name": "25- Hồ Tô Gia Như",
+                "rating": 5,
+                "text": "bạn Trung Kiên siêu dễ thương phục vụ siêu nhiệt tình bà các bạn nhân viên khác cũng dễ thương ko kém, đồ ăn cũng cũng, đáng quay lại lần 2",
+                "time": "2025-11-26T14:38:14.447Z"
+            },
+            {
+                "name": "anh dong",
+                "rating": 5,
+                "text": "Anh Kiên đẹp trai, take care tốt",
+                "time": "2025-11-26T14:16:27.039Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJ5_KFG48vdTERXQaGkFmJG18",
+        "name": "Pizza 4P's Phú Mỹ Hưng",
+        "search_string": "Pizza 4P's Ho Chi Minh",
+        "rating": 4.9,
+        "user_ratings_total": 9899,
+        "geometry": {
+            "location": {
+                "lat": 10.7308117,
+                "lng": 106.7245202
+            }
+        },
+        "address": "Toà nhà Cobi Tower II, 2-4 Đường Số 8, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 70000, Việt Nam",
+        "types": [
+            "Nhà hàng pizza",
+            "Delivery service",
+            "Nhà hàng gia đình",
+            "Nhà hàng hỗn hợp",
+            "Nhà hàng Nhật Bản",
+            "Nhà hàng thực phẩm hữu cơ",
+            "Cửa hàng bán pizza mang về"
+        ],
+        "reviews": [
+            {
+                "name": "Quỳnh Như Võ Hà",
+                "rating": 3,
+                "text": null,
+                "time": "2025-11-26T13:10:50.387Z"
+            },
+            {
+                "name": "Jason Wang",
+                "rating": 5,
+                "text": "Amazing Pasta and Pizza. Comfortable ambience for gatherings and hangout. Cannot be better than this, Yum!",
+                "time": "2025-11-26T05:44:14.262Z"
+            },
+            {
+                "name": "Nghĩa Nguyễn",
+                "rating": 5,
+                "text": "Ngon vãi c",
+                "time": "2025-11-25T14:40:53.287Z"
+            },
+            {
+                "name": "Mỹ Kỳ",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-25T13:47:22.280Z"
+            },
+            {
+                "name": "Thái Sơn Nguyễn Trần",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-25T13:05:49.681Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJw-_FOzQvdTERqaFY67fP2Zs",
+        "name": "Pizza 4P's Saigon Centre",
+        "search_string": "Pizza 4P's Ho Chi Minh",
+        "rating": 4.9,
+        "user_ratings_total": 16573,
+        "geometry": {
+            "location": {
+                "lat": 10.773164,
+                "lng": 106.7006118
+            }
+        },
+        "address": "Saigon Centre, 65 Lê Lợi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+        "types": [
+            "Nhà hàng pizza",
+            "Nhà hàng gia đình",
+            "Nhà hàng cao cấp",
+            "Nhà hàng hỗn hợp",
+            "Nhà hàng Nhật Bản",
+            "Nhà hàng thực phẩm hữu cơ",
+            "Cửa hàng bán pizza mang về"
+        ],
+        "reviews": [
+            {
+                "name": "Jss Mxmx",
+                "rating": 3,
+                "text": null,
+                "time": "2025-11-27T02:21:56.592Z"
+            },
+            {
+                "name": "Lee An",
+                "rating": 5,
+                "text": "bạn Thanh Vi với Thành An chi nhánh Taka dth lắm ^^",
+                "time": "2025-11-26T14:02:12.211Z"
+            },
+            {
+                "name": "Tina K.",
+                "rating": 5,
+                "text": "Food, beverages, and everything was great - as expected from 4P's! Thai Sinh was a great server with a lot of patience for us ordering. Highly recommended!",
+                "time": "2025-11-26T12:55:41.809Z"
+            },
+            {
+                "name": "Ryan Stephen Chan",
+                "rating": 5,
+                "text": "Great place for pizza, amazingly done. Also, Sinh was very welcoming and friendly. Made the whole dining experience very homely and pleasant. Will be back again!",
+                "time": "2025-11-26T12:00:49.723Z"
+            },
+            {
+                "name": "ziyah azahar",
+                "rating": 5,
+                "text": "sinh was being so friendly and nice :) good food and experience",
+                "time": "2025-11-26T10:56:29.857Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJHUDLN0kvdTEROYEfxmcCW5g",
+        "name": "Pizza 4P’s Lê Thánh Tôn",
+        "search_string": "Pizza 4P's Ho Chi Minh",
+        "rating": 4.8,
+        "user_ratings_total": 18361,
+        "geometry": {
+            "location": {
+                "lat": 10.7818738,
+                "lng": 106.7051397
+            }
+        },
+        "address": "Lê Thánh Tôn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
+        "types": [
+            "Nhà hàng pizza",
+            "Nhà hàng gia đình",
+            "Nhà hàng cao cấp",
+            "Nhà hàng hỗn hợp",
+            "Nhà hàng Nhật Bản",
+            "Nhà hàng thực phẩm hữu cơ",
+            "Cửa hàng bán pizza mang về"
+        ],
+        "reviews": [
+            {
+                "name": "Miircea20",
+                "rating": 5,
+                "text": "Ich hatte heute die beste Pizza, die ich je in meinem Leben gegessen habe. Und der Meinung waren meine zwei Brüder, welche mich begleitet hattet, auch. Ganz großes Lob geht an die kleine äußerst freundliche Bedienung, welche die Tische im Eingangsbereich bedient hat. Sowas freundliches und zuvorkommendes wünscht man sich öfter. Macht weiter so. Einfach unglaublich !",
+                "time": "2025-11-26T15:59:50.329Z"
+            },
+            {
+                "name": "Le Thy",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T13:56:10.161Z"
+            },
+            {
+                "name": "Chinh Ng",
+                "rating": 5,
+                "text": "Very nice experience at 4P ! Great pizza, amazing service",
+                "time": "2025-11-26T13:12:53.188Z"
+            },
+            {
+                "name": "Mpetha Mbuyisa",
+                "rating": 5,
+                "text": "Lovely place. Friendly attentive staff. Food was exceptional.",
+                "time": "2025-11-26T13:07:10.503Z"
+            },
+            {
+                "name": "alexander de lumassie",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T13:06:52.752Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJC-nWiTYvdTERGMJvRSoZ2f4",
+        "name": "Pizza 4P's Hai Bà Trưng",
+        "search_string": "Pizza 4P's Ho Chi Minh",
+        "rating": 4.9,
+        "user_ratings_total": 19205,
+        "geometry": {
+            "location": {
+                "lat": 10.7830429,
+                "lng": 106.6969727
+            }
+        },
+        "address": "151b Hai Bà Trưng, Phường 6, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
+        "types": [
+            "Nhà hàng pizza",
+            "Nhà hàng gia đình",
+            "Nhà hàng cao cấp",
+            "Nhà hàng hỗn hợp",
+            "Nhà hàng Nhật Bản",
+            "Nhà hàng thực phẩm hữu cơ",
+            "Cửa hàng bán pizza mang về"
+        ],
+        "reviews": [
+            {
+                "name": "Herman",
+                "rating": 3,
+                "text": "I have been a loyal customer of 4P’s for many years and it used to be my first stop whenever I visit Vietnam. On my most recent visit I was disappointed by a noticeable decline in food quality: both the beef and the pizza were quite tough and did not meet the standard I have come to expect.",
+                "time": "2025-11-27T00:25:57.325Z"
+            },
+            {
+                "name": "Gül Miray Keçici",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T18:54:37.611Z"
+            },
+            {
+                "name": "nathan wood",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T14:56:23.765Z"
+            },
+            {
+                "name": "Yasuo Takakura",
+                "rating": 5,
+                "text": "Food was really good. The service was also good and I would like to come again!",
+                "time": "2025-11-26T14:42:58.917Z"
+            },
+            {
+                "name": "Rebecca Martin",
+                "rating": 5,
+                "text": "Lovely spot. Great vibe and atmosphere, food is yummy and service is great. Definitely recommend a visit.",
+                "time": "2025-11-26T14:17:07.557Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJ7a0pnsYvdTER1H6W6rgABq4",
+        "name": "Pizza 4P's Delivery Lý Chính Thắng",
+        "search_string": "Pizza 4P's Ho Chi Minh",
+        "rating": 4.4,
+        "user_ratings_total": 26,
+        "geometry": {
+            "location": {
+                "lat": 10.7867273,
+                "lng": 106.6851955
+            }
+        },
+        "address": "127 Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 700000, Việt Nam",
+        "types": [
+            "Cửa hàng giao pizza"
+        ],
+        "reviews": [
+            {
+                "name": "Lindsay Nelson",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-04T18:23:05.481Z"
+            },
+            {
+                "name": "Nguyen Viet Hung",
+                "rating": 4,
+                "text": null,
+                "time": "2025-11-02T02:23:17.122Z"
+            },
+            {
+                "name": "thư trần",
+                "rating": 1,
+                "text": "mưa mình lại hỏi ngồi chỗ nào nv bảo chị thấy chỗ nào khô thì tự ngồi, mình bảo mưa chỗ nào cũng ướt cái nv bảo dị em chịu là giải quyết vấn đề cho khách đến ăn chưa",
+                "time": "2025-10-14T12:46:34.135Z"
+            },
+            {
+                "name": "Nghia Tran",
+                "rating": 1,
+                "text": "Tôi và gia đình là KH lâu năm của Pizza 4P, tối ngày 05/10/25 gia đình tôi có đặt gọi pizza half 5 cheese half nấm, 1 súp kem nấm, 1 salad cải kale. Chuyện không có gì cho đến khi tôi dùng món cải Kale bị trộn lẫn với nhiều rau nát, thối. Khi liên hệ với Pizza 4p thì được giải thích là do nhà hàng trộn với mint và húng quế để tạo hương vị đặc trưng của món ăn, đây không phải là lần đầu tiên gia đình tôi dùng cải kale ở Pizza 4P và đây là lần đầu tiên tôi gặp trải nghiệm này.\nVấn đề là ban đầu bạn nhân viên bảo mint và húng quế, sau tôi hỏi có chắc không, và có phải món cải kale nào cũng bỏ mint và húng quế thế này vào món thì bạn lại không trả lời trực diện mà cứ vòng vo, tôi đăng clip lên đây để mọi người và ngay cả Pizza 4P cùng xem, nếu đúng thực là mint với húng quế VÀ đạt chất lượng, tôi sẽ gỡ review 1 sao này xuống ngay lập tức.\nBên cạnh đăng tải lên đây, tôi cũng sẽ đăng clip lên mạng xã hội để những người khác cùng đánh giá.",
+                "time": "2025-10-06T01:21:17.991Z"
+            },
+            {
+                "name": "Julia Babcock",
+                "rating": 5,
+                "text": null,
+                "time": "2025-10-03T14:15:45.903Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJfYtYmHkvdTERhCNHqNTzQ48",
+        "name": "Pizza 4P's Bến Thành",
+        "search_string": "Pizza 4P's Ho Chi Minh",
+        "rating": 4.9,
+        "user_ratings_total": 24682,
+        "geometry": {
+            "location": {
+                "lat": 10.773361,
+                "lng": 106.6976173
+            }
+        },
+        "address": "8 Thủ Khoa Huân, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
+        "types": [
+            "Nhà hàng pizza",
+            "Nhà hàng gia đình",
+            "Nhà hàng cao cấp",
+            "Nhà hàng hỗn hợp",
+            "Nhà hàng Nhật Bản",
+            "Nhà hàng thực phẩm hữu cơ",
+            "Cửa hàng bán pizza mang về"
+        ],
+        "reviews": [
+            {
+                "name": "Ari Delint",
+                "rating": 5,
+                "text": "We got by grab a pizza an spaghetti and it arrived perfect tasted delicious",
+                "time": "2025-11-27T00:18:17.691Z"
+            },
+            {
+                "name": "Gül Miray Keçici",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T18:55:07.006Z"
+            },
+            {
+                "name": "Muhammad Rehan Wadiwala",
+                "rating": 5,
+                "text": "Hanna went above and beyond with her service. Thank you for making my daughters day. The food was exceptional, and the atmosphere was unmatched. Truly the best pizza in town—the experience itself exceeds even the pizza.",
+                "time": "2025-11-26T15:36:08.735Z"
+            },
+            {
+                "name": "Jacob Lu",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T15:13:34.954Z"
+            },
+            {
+                "name": "ginny bakker",
+                "rating": 5,
+                "text": "Het eten was geweldig! En de service ook!! Hanna was onze serveerster vanavond en ze was echt super lief! Absoluut een aanrader!",
+                "time": "2025-11-26T14:51:16.724Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJa2r_lDUvdTER4kTuZZ1T94w",
+        "name": "Highlands Coffee Mạc Đĩnh Chi",
+        "search_string": "Highlands Coffee District 1",
+        "rating": 4.1,
+        "user_ratings_total": 2023,
+        "geometry": {
+            "location": {
+                "lat": 10.7853273,
+                "lng": 106.6989273
+            }
+        },
+        "address": "39 Mạc Đĩnh Chi, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+        "types": [
+            "Quán cà phê",
+            "Quán cà phê espresso"
+        ],
+        "reviews": [
+            {
+                "name": "Khon Bui",
+                "rating": 5,
+                "text": "Tuyệt vời",
+                "time": "2025-11-18T15:28:57.208Z"
+            },
+            {
+                "name": "Sơn Lê",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-14T12:36:28.246Z"
+            },
+            {
+                "name": "Duyên Phan",
+                "rating": 5,
+                "text": "Nhân viên vui vẽ nhiệt tình",
+                "time": "2025-11-10T04:59:43.778Z"
+            },
+            {
+                "name": "Тимур Садыков",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-05T05:54:09.165Z"
+            },
+            {
+                "name": "Alex",
+                "rating": 3,
+                "text": "Mình đi nhiều quán highlands rồi nhưng thấy chi nhánh này đc mỗi khu ngoài trời là sáng sủa. Còn trong phòng thì ko khí ngột ngạt tối tăm kiểu ngồi hồi là ngủ luôn, nói chung ko tới đây làm việc đc",
+                "time": "2025-11-01T23:20:02.487Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJPaV2gDgvdTERkDRRqtvgkHo",
+        "name": "Highlands Coffee",
+        "search_string": "Highlands Coffee District 1",
+        "rating": 4.3,
+        "user_ratings_total": 721,
+        "geometry": {
+            "location": {
+                "lat": 10.7753902,
+                "lng": 106.6994323
+            }
+        },
+        "address": "114 Nam Kỳ Khởi Nghĩa, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+        "types": [
+            "Quán cà phê"
+        ],
+        "reviews": [
+            {
+                "name": "Tiger Girl",
+                "rating": 1,
+                "text": "Hôm trc mình có ghé qua đây mua Matcha Dâu Tây. Lúc bạn nhân viên bán cho mình thì chỉ có Matcha với 1 ít dâu ở dưới, hoàn toàn ko có lớp kem dâu bên trên 😌 highlands tuyển nhân viên thật \"cá tính\" đó 😌 lúc đó tôi mà biết được tôi ko để yên đâu 😌 làm ăn gian dối ai mà dám ghé nữa. Ăn 1 sao nhé Highlands Nam Kì😡😏",
+                "time": "2025-11-25T15:41:28.801Z"
+            },
+            {
+                "name": "MoonSun - NguyenHa 's family",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-23T12:04:12.894Z"
+            },
+            {
+                "name": "ライトセバスチャン",
+                "rating": 5,
+                "text": "美味しく安いコーヒー、パンでした。\nセットで53.000ドン\nパンもサクサクとした感触です。\nコーヒーも少し甘い味わい。\nエアコンも効いています。",
+                "time": "2025-11-22T06:29:55.543Z"
+            },
+            {
+                "name": "Paisley May",
+                "rating": 5,
+                "text": null,
+                "time": "2025-10-29T01:05:55.712Z"
+            },
+            {
+                "name": "Loc Letuan",
+                "rating": 4,
+                "text": "Rất tốt.",
+                "time": "2025-10-18T13:35:07.084Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJZRiU5T0vdTER8jp8pjK3BLc",
+        "name": "Highlands Coffee – Liberty Saigon Greenview",
+        "search_string": "Highlands Coffee District 1",
+        "rating": 4.2,
+        "user_ratings_total": 2539,
+        "geometry": {
+            "location": {
+                "lat": 10.7686019,
+                "lng": 106.6934527
+            }
+        },
+        "address": "187 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+        "types": [
+            "Quán cà phê",
+            "Quán cà phê espresso"
+        ],
+        "reviews": [
+            {
+                "name": "Garima Baldua",
+                "rating": 4,
+                "text": null,
+                "time": "2025-11-26T16:12:42.675Z"
+            },
+            {
+                "name": "Patrick Kosellek",
+                "rating": 5,
+                "text": "This Highlands has a ice cream machine for the best topping",
+                "time": "2025-11-25T04:21:47.368Z"
+            },
+            {
+                "name": "Huy Chuong Nguyen Pham",
+                "rating": 4,
+                "text": null,
+                "time": "2025-11-21T15:18:19.105Z"
+            },
+            {
+                "name": "Светлана Саттарова",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-20T06:41:13.609Z"
+            },
+            {
+                "name": "quyen dinh",
+                "rating": 4,
+                "text": null,
+                "time": "2025-11-19T23:40:34.606Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJG0E8glcvdTERLa-Q5lKWLjI",
+        "name": "Highlands Coffee – Lý Tự Trọng",
+        "search_string": "Highlands Coffee District 1",
+        "rating": 4.1,
+        "user_ratings_total": 549,
+        "geometry": {
+            "location": {
+                "lat": 10.774658,
+                "lng": 106.6981892
+            }
+        },
+        "address": "71 Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 70000, Việt Nam",
+        "types": [
+            "Quán cà phê"
+        ],
+        "reviews": [
+            {
+                "name": "Huyền Ngọc",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T13:19:32.438Z"
+            },
+            {
+                "name": "Hoai Quoc",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T10:44:30.940Z"
+            },
+            {
+                "name": "Duy Truong",
+                "rating": 1,
+                "text": "Quản lý tên trang thái độ khinh thường và hỗn láo với khách hàng , nên đổi quản lý khác",
+                "time": "2025-11-23T11:33:39.603Z"
+            },
+            {
+                "name": "Quoc Hung Do",
+                "rating": 4,
+                "text": null,
+                "time": "2025-11-23T04:39:36.954Z"
+            },
+            {
+                "name": "William Bryson",
+                "rating": 4,
+                "text": "Just an average Highlands Coffee shop. Ok coffee. Somewhat overpriced. Good parking with security.",
+                "time": "2025-11-23T04:29:11.266Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJ-6yroAIvdTERKyKxl--Na9k",
+        "name": "Highlands Coffee Friendship Tower D1",
+        "search_string": "Highlands Coffee District 1",
+        "rating": 4.1,
+        "user_ratings_total": 65,
+        "geometry": {
+            "location": {
+                "lat": 10.7823414,
+                "lng": 106.7009362
+            }
+        },
+        "address": "31 Lê Duẩn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 70000, Việt Nam",
+        "types": [
+            "Quán cà phê"
+        ],
+        "reviews": [
+            {
+                "name": "Thành Ngô Thị Như",
+                "rating": 2,
+                "text": "Mình order có dặn kỹ các bạn về thức uống như lượng đường, đá, lượng cà phê. Nhưng khi nhận lại thì không như mình dặn dò. Đây là lần thứ 3 mình bị như vậy. Mình thật sự thất vọng.",
+                "time": "2025-11-20T04:25:29.963Z"
+            },
+            {
+                "name": "Trang Thanh Minh Thư",
+                "rating": 5,
+                "text": "Bánh Cheese và Trà vải ngon\nView.cực đẹp",
+                "time": "2025-11-08T00:04:59.617Z"
+            },
+            {
+                "name": "Hùng Nguyễn",
+                "rating": 4,
+                "text": null,
+                "time": "2025-11-05T17:23:39.800Z"
+            },
+            {
+                "name": "Le Ngan",
+                "rating": 1,
+                "text": "Nhân viên thái độ rất tệ, phục vụ lâu lắc",
+                "time": "2025-10-31T01:38:29.327Z"
+            },
+            {
+                "name": "Thảo Nguyễn",
+                "rating": 5,
+                "text": null,
+                "time": "2025-10-22T14:45:10.823Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJwQilIikvdTERUva2LGLzpF8",
+        "name": "Highlands Coffee Nguyễn Thái Học",
+        "search_string": "Highlands Coffee District 1",
+        "rating": 4.2,
+        "user_ratings_total": 820,
+        "geometry": {
+            "location": {
+                "lat": 10.7687641,
+                "lng": 106.6951897
+            }
+        },
+        "address": "132A Nguyễn Thái Học, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+        "types": [
+            "Quán cà phê"
+        ],
+        "reviews": [
+            {
+                "name": "Anh Hoàng Phương",
+                "rating": 1,
+                "text": "Nhân viên siêu tệ, thái độ, giỡn hớt chửi thề ầm ĩ khi khách còn trong quán\nMình đi vào ca chiều 17h ngày thứ tư 19/11",
+                "time": "2025-11-22T09:25:51.893Z"
+            },
+            {
+                "name": "Duy Đào Hoàng",
+                "rating": 5,
+                "text": "Good",
+                "time": "2025-11-20T05:34:23.355Z"
+            },
+            {
+                "name": "Trần Tiền",
+                "rating": 3,
+                "text": "Hôm nay 16/11 mình cùng bạn ghé uống nước. Lúc đó mình ngồi trên lầu cùng nhìu bạn khác và có đồ trên bàn nên mới phải để ly nước sang 1 chiếc bàn nhỏ cạnh bên khác. Nước chưa uống được bao nhiêu, 2 ly đầy ấp quay qua quay lại cái là bạn nhân viên dọn ly luôn:(((( Có thể confirm với khách ngồi cạnh vì bàn đó mk lấy đi 2 chiếc ghế, để ngồi bàn bên cạnh mà. Đến khi phát hiện thì nhân viên nói “em tưởng khách về nên vừa mới dọn ly luôn”, mình vẫn hoan hỉ và chẳng nhận lại được 1 câu xin lỗi",
+                "time": "2025-11-16T05:00:58.535Z"
+            },
+            {
+                "name": "Oanh Bui",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-11T06:27:23.807Z"
+            },
+            {
+                "name": "Co Hiem",
+                "rating": 1,
+                "text": null,
+                "time": "2025-11-09T09:59:05.601Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJkQWtPgAvdTERgQJja5175f0",
+        "name": "Highlands Coffee Tôn Thất Thiệp - Quận 1",
+        "search_string": "Highlands Coffee District 1",
+        "rating": 4.2,
+        "user_ratings_total": 120,
+        "geometry": {
+            "location": {
+                "lat": 10.7734438,
+                "lng": 106.7025575
+            }
+        },
+        "address": "15-17-19 Đ. Tôn Thất Thiệp, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 70000, Việt Nam",
+        "types": [
+            "Quán cà phê"
+        ],
+        "reviews": [
+            {
+                "name": "Đức Văn",
+                "rating": 5,
+                "text": "Cắt tóc đẹp",
+                "time": "2025-11-20T13:12:27.068Z"
+            },
+            {
+                "name": "Quyen Nguyen",
+                "rating": 4,
+                "text": "I stumbled upon this place while taking a walk.\n​Atmosphere and Layout:\n​The space is spacious and airy. ​It features multiple seating areas spread across two floors.\n​If you are a smoker, there is a dedicated area available outside by the pavement.\n\n​Drinks:\n​The drinks here are made quite sweet.\n​This was the case even though I specifically ordered less sugar.\n\n​Service:\n​The staff were very quick and agile.\n​They were also enthusiastic and attentive.",
+                "time": "2025-11-19T17:19:54.581Z"
+            },
+            {
+                "name": "STT89",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-19T09:21:37.217Z"
+            },
+            {
+                "name": "malvika sharma",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-18T22:53:26.263Z"
+            },
+            {
+                "name": "Zac Heil",
+                "rating": 4,
+                "text": "Chi nhánh Highlands Coffee Premium. Với không gian siu thoáng nhiều góc và view rất đẹp. Tuy nhiên, thực sự là chưa thấy service của các bạn nhân viên có gì đặc biệt so với giá cao ntn, ngoài việc sử dụng ly thuỷ tinh. Nói chung là không quay lại",
+                "time": "2025-11-16T13:31:48.436Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJJV5kDSUvdTERvsRa3dwW14c",
+        "name": "Highlands Coffee – Nguyễn Trãi",
+        "search_string": "Highlands Coffee District 1",
+        "rating": 4.2,
+        "user_ratings_total": 1119,
+        "geometry": {
+            "location": {
+                "lat": 10.7674096,
+                "lng": 106.6883038
+            }
+        },
+        "address": "210 Nguyễn Trãi, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+        "types": [
+            "Quán cà phê"
+        ],
+        "reviews": [
+            {
+                "name": "LE Edgar",
+                "rating": 4,
+                "text": "Vị trí: góc đường, rộng rãi, sạch sẽ, thoáng mát\nThức uống: đa dạng theo chuỗi Hinglands chung nên cũng dễ chọn lựa.\nGiá tiền: Hợp lý so với mặt bằng chung khu vực\nNhân viên: làm việc theo chuỗi và khá chuyên nghiệp\nTôi đến gặp khách buổi trưa 14:00 nên cũng có chỗ ngồi, chứ nếu giờ cao điểm chắc sẽ đông và khó có chỗ.\nBãi đậu xe: gắn máy thì dễ, ô tô hơi khó nhưng mình đi Xanh SM vì vậy cũng tiện.\nĐánh giá chung: 9pts",
+                "time": "2025-11-27T01:11:44.755Z"
+            },
+            {
+                "name": "Thùy Đỗ",
+                "rating": 1,
+                "text": "Tôi thấy rất tệ .xem thường khách hàng :(",
+                "time": "2025-11-24T05:04:55.609Z"
+            },
+            {
+                "name": "Phước Nguyễn Trịnh Thế",
+                "rating": 5,
+                "text": "Không gian quán rộng rãi, mát mẻ",
+                "time": "2025-11-22T06:27:47.374Z"
+            },
+            {
+                "name": "Steve Hawkins",
+                "rating": 5,
+                "text": "Highlands chain is really good. They never have a large selection of food stuff ( they can definitely improve on that) but the latter, cappuccino etc are made using fresh fresh cows milk, not long life stuff.",
+                "time": "2025-11-16T09:47:30.531Z"
+            },
+            {
+                "name": "Tuấn Anh Trần",
+                "rating": 1,
+                "text": "Nhân viên không linh động khi khách sử dụng voucher",
+                "time": "2025-11-14T04:10:15.149Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJ6-qHzzovdTERKuM7X5ehack",
+        "name": "Bitexco Financial Tower",
+        "search_string": "Bitexco Financial Tower",
+        "rating": 4.5,
+        "user_ratings_total": 19141,
+        "geometry": {
+            "location": {
+                "lat": 10.7717064,
+                "lng": 106.7043759
+            }
+        },
+        "address": "2 Đ. Hải Triều, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
+        "types": [
+            "Trung tâm thương mại",
+            "Văn phòng công ty"
+        ],
+        "reviews": [
+            {
+                "name": "Trọng Tín Nguyễn",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T16:15:02.381Z"
+            },
+            {
+                "name": "Robert Cky",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T11:50:23.666Z"
+            },
+            {
+                "name": "Đức Trọng Nguyễn",
+                "rating": 5,
+                "text": "Tòa nhà biểu tượng của trung tâm tài chính Quận 1. Ngồi cafe ở đây view đẹp, mạng mạnh, rất hợp để trade coin. Tiện thể review cho anh em nào đang tìm sàn giao dịch uy tín thì cứ Binance mà dùng. Đây là sàn Top 1 thế giới rồi, thanh khoản cao, khớp lệnh mua bán trong tích tắc, không bao giờ lo bị giam tiền.\nBác nào mới bước chân vào thị trường Crypto thì nên đăng ký tài khoản qua mã giới thiệu. Nhập mã ARTTRONG2601 để được giảm 20% phí giao dịch trọn đời và nhận các ưu đãi khởi đầu nhe. Uy tín!",
+                "time": "2025-11-26T05:42:07.256Z"
+            },
+            {
+                "name": "Francois Crenn",
+                "rating": 5,
+                "text": "Magnifique vue sur la ville d'Ho Chi Minh",
+                "time": "2025-11-25T11:54:18.629Z"
+            },
+            {
+                "name": "elysha breden",
+                "rating": 3,
+                "text": null,
+                "time": "2025-11-25T08:59:26.880Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJTeYpMT8vdTERMH8sUnkta40",
+        "name": "Chợ Bến Thành",
+        "search_string": "Ben Thanh Market",
+        "rating": 4,
+        "user_ratings_total": 75816,
+        "geometry": {
+            "location": {
+                "lat": 10.7725168,
+                "lng": 106.6980208
+            }
+        },
+        "address": "Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+        "types": [
+            "Chợ",
+            "Điểm mốc văn hóa",
+            "Điểm thu hút khách du lịch"
+        ],
+        "reviews": [
+            {
+                "name": "Huy Quang",
+                "rating": 5,
+                "text": "chị hiền làm chi tiết cẩn thận, ủng hộ chị nhaa",
+                "time": "2025-11-27T02:22:56.031Z"
+            },
+            {
+                "name": "Jss Mxmx",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-27T02:21:42.238Z"
+            },
+            {
+                "name": "Indy McCarthy",
+                "rating": 4,
+                "text": null,
+                "time": "2025-11-27T01:46:30.155Z"
+            },
+            {
+                "name": "Maricel Gildore",
+                "rating": 5,
+                "text": "Definitely coming back to shop! 🛍😄",
+                "time": "2025-11-27T01:40:31.869Z"
+            },
+            {
+                "name": "Gerald Savard",
+                "rating": 3,
+                "text": null,
+                "time": "2025-11-26T23:39:48.298Z"
+            }
+        ]
+    },
+    {
+        "place_id": "ChIJ_yzv1bQodTER7hN4NV_cGXE",
+        "name": "GEM Center",
+        "search_string": "Gem Center District 1",
+        "rating": 4.5,
+        "user_ratings_total": 6747,
+        "geometry": {
+            "location": {
+                "lat": 10.7901279,
+                "lng": 106.702372
+            }
+        },
+        "address": "8 Nguyễn Bỉnh Khiêm, Đa Kao, Quận 1, Thành phố Hồ Chí Minh 70000, Việt Nam",
+        "types": [
+            "Trung tâm hội nghị"
+        ],
+        "reviews": [
+            {
+                "name": "Joseph Nguyễn (Jonathan)",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T15:36:05.523Z"
+            },
+            {
+                "name": "TRUNG HIẾU TRẦN",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T14:44:09.302Z"
+            },
+            {
+                "name": "quocphong nguyen",
+                "rating": 5,
+                "text": "Trung tâm mua sắm,vui chơi và ăn uống rộng lớn ,sang trọng",
+                "time": "2025-11-26T12:28:47.832Z"
+            },
+            {
+                "name": "Lê Thành Nhân",
+                "rating": 5,
+                "text": null,
+                "time": "2025-11-26T10:40:17.391Z"
+            },
+            {
+                "name": "paula phạm",
+                "rating": 1,
+                "text": "Trải nghiệm tệ nhất đó giờ ở Gem! Năm nay noel mình ghé Gem để chụp hình,trang trí tạm ổn.Việc thu vé 200k/ khách cũng có thể chấp nhận xem như là cách để duy trì và ổn định lượng khách.NHƯNG nước CỰC KỲ DỞ TỆ! Bánh cũng chán luôn.Mình cố uống vì tiếc tiền chứ bỏ hết 1/2 nước và bánh.Năm sau sẽ cân nhắc việc có quay lại Gem hay ko.",
+                "time": "2025-11-26T06:18:59.586Z"
+            }
+        ]
+    }
+]
