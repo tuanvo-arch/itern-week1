@@ -9,24 +9,25 @@ Python script: đọc file JSON Google Places → xử lý missing → trích la
 SQL (SQLite): dùng Window Function (RANK / DENSE_RANK) để xếp hạng địa điểm theo rating trong từng type
 
 1. Cấu trúc dự án:
+# Cấu trúc dự án
+```
 WEEK01/
 └── google_place_cleaner/
     ├── data_raw/
-    │   ├── locations_raw.json           dữ liệu thô từ Google Places API
+    │   └── locations_raw.json      dữ liệu thô từ Google Places API
     ├── notebooks/
-    │                          
     ├── output/
-    │   ├── locations_cleaned.csv        file CSV sạch (yêu cầu chính)
-    │   └── reviews_cleaned.csv                   
+    │   ├── locations_cleaned.csv   file CSV sạch (yêu cầu chính)
+    │   └── reviews_cleaned.csv
     ├── scripts/
-    │   ├── crawler.py                   script crawl tự động bằng Apify
-    │   └── clean_places.py              script làm sạch + xuất CSV
-    ├── env/                            
+    │   ├── crawler.py              script crawl tự động bằng Apify
+    │   └── clean_places.py         script làm sạch + xuất CSV
+    ├── env/
     ├── sqlite_demo/
-    │   ├── demodb.db                     
-    │   └── demodb.sqbpro                PROJECT DB Browser
-    └── README.md                       
-
+    │   ├── demodb.db
+    │   └── demodb.sqbpro           PROJECT DB Browser
+    └── README.md
+```
 2. Cách chạy toàn bộ project:
 
 # Bước 1: Crawl dữ liệu mới bằng Apify
